@@ -29,6 +29,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-archives
 
 collections:
   posts:
