@@ -1,0 +1,36 @@
+title: Your Name
+description: Portfolio · Blog · CV · Projects
+url: https://YOURUSERNAME.github.io
+author:
+  name: Your Name
+  email: you@example.com
+  avatar: /assets/images/avatar.jpg
+
+remote_theme: mmistakes/minimal-mistakes
+
+markdown: kramdown
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: false
+      share: false
+      toc: true
