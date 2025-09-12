@@ -1,4 +1,4 @@
 ---
-title: "News and Updates"
+title: "Happy to present my research at Brains United"
 ---
-Test post. I’ll share notes, research, and project updates here.
+9-10 Sept 2025 - A joint meeting of the KU Leuveen Brain Institute and the UCLouvain Institute of Neuroscience
