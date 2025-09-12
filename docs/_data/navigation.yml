@@ -5,5 +5,7 @@ main:
     url: /projects/
   #- title: "Blog"
    # url: /blog/
+  - title: "publications"
+    url: /publications/
   - title: "CV (PDF)"
     url: /assets/cv/CV.pdf
