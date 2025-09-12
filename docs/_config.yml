@@ -4,7 +4,7 @@ url: https://SteMat9787.github.io
 author:
   name: Stefania Mattioni
   email: stefania.mattioni87@gmail.com
-  avatar: docs/assets/images/avatar.jpg
+  avatar: /assets/images/avatar.jpg
 
 remote_theme: mmistakes/minimal-mistakes
 

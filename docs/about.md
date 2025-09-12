@@ -4,4 +4,5 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-Write a short bio, interests, skills, and contact info here.
+I am a cognitive neuroscientist interested in how life experiences — such as sensory deprivation, bilingualism, and sign language — shape the way we represent and organise concepts in the mind. My research combines behavioural experiments, neuroimaging, and computational approaches to explore the flexibility and resilience of conceptual representation across populations.  
+
