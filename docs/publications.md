@@ -25,10 +25,10 @@ Here is a selection of my publications. For a full and updated list, see [Google
   *The Journal of Neuroscience*. **Stefania Mattioni**,Ceren Battal.
 
 - **[Impact of blindness onset on the representation of sound categories in occipital and temporal cortices](https://elifesciences.org/articles/79370)**  
-  *ELife*. **S Mattioni**, M Rezk, C Battal, J Vadlamudi, O Collignon.
+  *ELife*. **Stefania Mattioni**, Mohamed Rezk, Ceren Battal, Jyothirmayi Vadlamudi, Olivier Collignon.
 
 - **[Structural and functional network-level reorganization in the coding of auditory motion directions and sound source locations in the absence of vision](https://www.jneurosci.org/content/jneuro/42/47/8755.full.pdf)**
- *Journal of Neuroscience*. Ceren Battal, Ane Gurtubay-Antolin, Mohamed Rezk, **Stefania Mattioni**, Giorgia Bertonati, Valeria Occelli, Roberto Bottini, Stefano Targher, Chiara Maffei, Jorge Jovicich, Olivier Collignon
+ *Journal of Neuroscience*. Ceren Battal, Ane Gurtubay-Antolin, Mohamed Rezk, **Stefania Mattioni**, Giorgia Bertonati, Valeria Occelli, Roberto Bottini, Stefano Targher, Chiara Maffei, Jorge Jovicich, Olivier Collignon.
 
 ### 2021
 - **[Direct structural connections between auditory and visual motion-selective regions in humans](https://www.jneurosci.org/content/41/11/2393.abstract)**
@@ -39,7 +39,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
  *Current Biology*. Mohamed Rezk, Stephanie Cattoir, Ceren Battal, Valeria Occelli, **Stefania Mattioni**, Olivier Collignon.
 
 - **[Categorical representation from sound and sight in the ventral occipito-temporal cortex of sighted and blind](https://elifesciences.org/articles/50732)**  
-  *ELife*. **S Mattioni**, Mohamed Rezk, Ceren Battal, Roberto Bottini, Karen E. Cuculiza Mendoza, Nikolaas N. Oosterhof, Olivier Collignon.
+  *ELife*. **Stefania Mattioni**, Mohamed Rezk, Ceren Battal, Roberto Bottini, Karen E. Cuculiza Mendoza, Nikolaas N. Oosterhof, Olivier Collignon.
 
 ### 2019
 - **[Representation of auditory motion directions and sound source locations in the human planum temporale](https://www.jneurosci.org/content/39/12/2208.abstract)**  
