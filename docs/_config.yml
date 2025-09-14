@@ -5,6 +5,7 @@ baseurl: ""
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
+academicons: true
 
 author:
   name: Stefania Mattioni
