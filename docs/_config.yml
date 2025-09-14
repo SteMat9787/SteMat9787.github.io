@@ -3,12 +3,12 @@ description: Personal website of Stefania Mattioni · Projects and CV
 url: https://SteMat9787.github.io
 author:
   name: Stefania Mattioni
-  email: stefania.mattioni87@gmail.com
+  email: stefania.mattioni@ugent.be
   avatar: /assets/images/avatar.jpg
-    links:
+  links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
+      url: "mailto:stefania.mattioni@ugent.be"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/SteMat9787"
