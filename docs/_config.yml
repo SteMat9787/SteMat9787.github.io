@@ -3,9 +3,10 @@ description: Personal website of Stefania Mattioni · Projects and CV
 url: https://stemat9787.github.io
 baseurl: ""
 
+academicons: true
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-academicons: true
+
 
 author:
   name: Stefania Mattioni
