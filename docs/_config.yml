@@ -1,50 +1,40 @@
 title: Stefania Mattioni
 description: Personal website of Stefania Mattioni · Projects and CV
-url: https://SteMat9787.github.io
+url: https://stemat9787.github.io
+baseurl: ""
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+
 author:
   name: Stefania Mattioni
-  email: stefania.mattioni@ugent.be
+  email: stefania.mattioni87@gmail.com
   avatar: /assets/images/avatar.jpg
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:stefania.mattioni@ugent.be"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/SteMat9787"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=dD6BUzYAAAAJ&hl=fr
-
-remote_theme: mmistakes/minimal-mistakes
+      url: "https://scholar.google.com/citations?user=dD6BUzYAAAAJ"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:stefania.mattioni87@gmail.com"
 
 markdown: kramdown
 permalink: /:categories/:title/
-paginate: 5
-paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-include-cache
-  - jekyll-archives
 
-collections:
-  posts:
-    output: true
-
+# Show author profile on all pages
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      read_time: true
-      comments: false
-      share: false
-      toc: true
-      comments: false
-      share: false
-      toc: true
+      author_profile: true
