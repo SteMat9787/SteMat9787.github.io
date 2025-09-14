@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Show author profile on all pages
 defaults:
