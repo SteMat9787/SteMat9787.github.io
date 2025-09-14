@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### Sensory Deprivation
-![Blindness project](/assets/images/blindness.jpg){: width="200" }
+![Blindness project](/assets/images/blindness.png){: width="200" }
 Research on how different type of visual deprivation (early onset, late onset, cataract-reversals) impacts conceptual representation and brain plasticity.
 **[Read more →](/projects/blindness/)**
 
