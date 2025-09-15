@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome to my website"
+title: “Experience rewires the brain. My work investigates how.”
 show_excerpts: true    # shows a snippet + date
 ---
 I am a cognitive neuroscientist interested in how life experiences — such as sensory deprivation, bilingualism, and sign language — shape the way we represent and organise concepts in the mind. 
