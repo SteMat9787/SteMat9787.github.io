@@ -9,7 +9,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
 ### 2025
 - **[Neural and computational evidence for a predictive learning account of the testing effect](https://www.pnas.org/doi/abs/10.1073/pnas.2506530122)**  
 Haopeng Chen, Pieter Verbeke, **Stefania Mattioni**, Cristian Buc Calderon, Tom Verguts.  
-<span style="color:#006970">Proceedings of the National Academy of Sciences</span>. 
+*Proceedings of the National Academy of Sciences*
 
 
 - **[Phonological representations of auditory and visual speech in the occipito-temporal cortex and beyond](https://www.jneurosci.org/content/jneuro/45/26/e1415242025.full.pdf?casa_token=MYIIgC1dv98AAAAA:mJC_hmsF-W53NCUU5YG-t0M149ig5iabYGpRjKqMt-w2poWyJg8gszdlWGetthInb8L8GDXGmYrq9Bn4)**  
