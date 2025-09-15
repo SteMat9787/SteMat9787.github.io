@@ -14,7 +14,7 @@ Haopeng Chen, Pieter Verbeke, **Stefania Mattioni**, Cristian Buc Calderon, Tom 
 
 - **[Phonological representations of auditory and visual speech in the occipito-temporal cortex and beyond](https://www.jneurosci.org/content/jneuro/45/26/e1415242025.full.pdf?casa_token=MYIIgC1dv98AAAAA:mJC_hmsF-W53NCUU5YG-t0M149ig5iabYGpRjKqMt-w2poWyJg8gszdlWGetthInb8L8GDXGmYrq9Bn4)**  
 Alice Van Audenhaege, **Stefania Mattioni**, Filippo Cerpelloni, Remi Gau, Arnaud Szmalec, Olivier Collignon.  
-<span style="color:#006970">Journal of Neuroscience*</span>.
+<span style="color:#006970">*Journal of Neuroscience*</span>.
 
 ### 2024
 - **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans](https://www.biorxiv.org/content/10.1101/2024.11.30.625697v1.abstract)**  
