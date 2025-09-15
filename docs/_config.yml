@@ -10,14 +10,15 @@ minimal_mistakes_skin: default
 
 author:
   name: Stefania Mattioni
-  email: stefania.mattioni87@gmail.com
+  email: stefania.mattioni@ugent.be
   avatar: /assets/images/avatar.jpg
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/SteMat9787"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+   #   icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=dD6BUzYAAAAJ"
    # - label: "Email"
    #   icon: "fas fa-envelope"
