@@ -4,8 +4,9 @@ date: 2025-09-15
 layout: single
 author_profile: true
 ---
-[Brains United](https://www.kuleuven.be/brain-institute/events-and-outreach/brains-united-neuroscience-meet-up-of-the-lbi-and-the-ions-uc-louvain)
-9-10 Sept 2025 - A joint meeting of the KU Leuven Brain Institute and the UCLouvain Institute of Neuroscience
+
+9-10 Sept 2025 -[Brains United](https://www.kuleuven.be/brain-institute/events-and-outreach/brains-united-neuroscience-meet-up-of-the-lbi-and-the-ions-uc-louvain) is a joint meeting of the KU Leuven Brain Institute and the UCLouvain Institute of Neuroscience
+
 
 I was happy to present my work on **cataract reversal**  
 ([Mattioni et al., 2024 · BioRxiv](https://www.biorxiv.org/content/10.1101/2024.XXXX))  
