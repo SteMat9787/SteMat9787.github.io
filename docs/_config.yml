@@ -41,6 +41,17 @@ plugins:
 defaults:
   - scope:
       path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true     # <- shows the date on teasers and post pages
+      read_time: true
+      comments: false
+      share: false
+      toc: false
+  - scope:
+      path: ""
       type: pages
     values:
       layout: single
