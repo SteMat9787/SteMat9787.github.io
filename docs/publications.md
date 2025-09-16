@@ -34,7 +34,7 @@ Alice Van Audenhaege, **Stefania Mattioni**, Filippo Cerpelloni, Remi Gau, Arnau
   **Stefania Mattioni**, Mohamed Rezk, Ceren Battal, Jyothirmayi Vadlamudi, Olivier Collignon.  
   <span style="color:#006970">*ELife*</span>.
 
-- **[Structural and functional network-level reorganization in the coding of auditory motion directions and sound source locations in the absence of vision](https://www.jneurosci.org/content/jneuro/42/47/8755.full.pdf)**  
+- **[Structural and functional network-level reorganization in the coding of auditory motion directions and sound source locations in the absence of vision](https://www.jneurosci.org/content/42/23/4652)**  
 Ceren Battal, Ane Gurtubay-Antolin, Mohamed Rezk, **Stefania Mattioni**, Giorgia Bertonati, Valeria Occelli, Roberto Bottini, Stefano Targher, Chiara Maffei, Jorge Jovicich, Olivier Collignon.  
 <span style="color:#006970">*Journal of Neuroscience*</span>.
 
