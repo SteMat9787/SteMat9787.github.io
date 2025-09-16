@@ -13,6 +13,9 @@ author:
   email: stefania.mattioni@ugent.be
   avatar: /assets/images/avatar.jpg
   links:
+    - label: "Ghent University"
+      icon: "fas fa-map-marker-alt"
+      url: "https://research.ugent.be/web/person/stefania-mattioni-0/en"   
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/SteMat9787"
