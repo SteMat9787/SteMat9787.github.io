@@ -21,7 +21,7 @@ Alice Van Audenhaege, **Stefania Mattioni**, Filippo Cerpelloni, Remi Gau, Arnau
 **Stefania Mattioni**, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valerie Goffaux, Andrea I Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, Olivier Collignon.  
 <span style="color:#006970">*bioRxiv*</span>.
 
-- **[Exploring brain representations through the lens of similarity structures]([https://doi.org/XXXX](https://www.nature.com/articles/s44159-024-00335-8))**  
+- **[Exploring brain representations through the lens of similarity structures](https://www.nature.com/articles/s44159-024-00335-8)**  
 **Stefania Mattioni**.  
 <span style="color:#006970">*Nature Reviews Psychology*</span>.
 
