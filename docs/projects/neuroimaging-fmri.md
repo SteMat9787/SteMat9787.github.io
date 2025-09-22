@@ -3,8 +3,10 @@
 A transversal thread across all my research is the use of **functional Magnetic Resonance Imaging (fMRI)** to study conceptual and semantic representations in the brain.  
 
 - **Multivariate analyses.** I specialise in advanced fMRI methods such as decoding and Representational Similarity Analysis (RSA), which capture fine-grained conceptual representations and link them directly to behavioural measures. These flexible tools allow me to bridge the gap between brain activity and cognitive performance.  
-- **Collaborative expertise.** At Ghent University, part of my position involves supporting fMRI projects across multiple domains. This has led to diverse collaborations and has broadened my expertise in the design, execution, and analysis of neuroimaging studies.
-  I also created and maintain a dedicated [GitHub repository on fMRI material at Ghent University](https://github.com/orgs/fMRI-ugent/repositories), which serves as a resource for students, researchers and collaborators.
+- **Collaborative expertise.**
+   - During my postdoc in the Crossmodal Perception and Plasticity lab I took part in building [Bidspm: An spm-centric bids app         for flexible statistical analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dD6BUzYAAAAJ&citation_for_view=dD6BUzYAAAAJ:RHpTSmoSYBkC). See also the [github page](https://github.com/cpp-lln-lab/bidspm) of this project. 
+   - At Ghent University, part of my position involves supporting fMRI projects across multiple domains. This has led to diverse         collaborations and has broadened my expertise in the design, execution, and analysis of neuroimaging studies. I also created       and maintain a dedicated [GitHub repository on fMRI material at Ghent University](https://github.com/orgs/fMRI-ugent/repositories), which serves as a resource for students, researchers and collaborators.
+
 - **Teaching.** I actively share my knowledge through teaching. 
    - *Ghent University.* Co-lecturer in *Techniques of Neuroimaging* (PP10), contributing lectures on fMRI.    
    - *Pisa Summer School in Cognitive Neuroscience (2023, 2025).* Taught a module on the physics and analysis of (f)MRI.  
@@ -17,6 +19,7 @@ fMRI thus plays a central role in my scientific profile — both as a research t
 
 
 [← Back to Research Themes](/projects/)
+
 
 
 
