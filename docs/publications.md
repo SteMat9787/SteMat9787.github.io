@@ -51,7 +51,7 @@ Mohamed Rezk, Stephanie Cattoir, Ceren Battal, Valeria Occelli, **Stefania Matti
 - **[Categorical representation from sound and sight in the ventral occipito-temporal cortex of sighted and blind](https://elifesciences.org/articles/50732)**  
 **Stefania Mattioni**, Mohamed Rezk, Ceren Battal, Roberto Bottini, Karen E. Cuculiza Mendoza, Nikolaas N. Oosterhof, Olivier Collignon.  
 <span style="color:#006970">*ELife*</span>.  
-*[Here](https://www.youtube.com/watch?v=CM_ygqA39KM&t=998s) is an online talk on this paper, from eLife’s COVID-19 seminar series ‘Keeping communications open with online research talks.*
+*[Here](https://www.youtube.com/watch?v=CM_ygqA39KM&t=998s) (starting at minute 19:00) is an online talk on this paper, from eLife’s COVID-19 seminar series ‘Keeping communications open with online research talks.*
   
 ### 2019
 - **[Representation of auditory motion directions and sound source locations in the human planum temporale](https://www.jneurosci.org/content/39/12/2208.abstract)**  
