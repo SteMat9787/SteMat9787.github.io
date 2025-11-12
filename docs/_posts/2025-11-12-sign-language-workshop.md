@@ -1,21 +1,14 @@
 ---
-title: "Happy to present my research at Brains United"
-date: 2025-09-15
+title: "My First Steps into Sign Language Research — and an Inspiring Workshop in Leipzig"
+date: 2025-11-12
 layout: single
 author_profile: true
 ---
 
-9-10 Sept 2025 -[Brains United](https://www.kuleuven.be/brain-institute/events-and-outreach/brains-united-neuroscience-meet-up-of-the-lbi-and-the-ions-uc-louvain) is a joint meeting of the KU Leuven Brain Institute and the UCLouvain Institute of Neuroscience
+On Nov 6th and 7th, I had the pleasure of attending the [“Sign Language Grammars, Parsing Models, & the Brain”](https://sign-language-grammars-parsers-brain.github.io) workshop at the Max Planck Institute in Leipzig.
+- The workshop was a fantastic opportunity for multidisciplinary exchange among experts approaching sign language from different perspectives — linguistics, neuroscience, computational modeling, and beyond. The discussions were truly inspiring, showing how much can be gained when diverse fields meet around a shared topic.
+- I was very happy to have the chance to present my ongoing study on sign language, and I hope this will be the first of many projects in this fascinating area.
+- As this was my first experience entering the field of sign language research, I am deeply grateful and touched by how welcoming and open the community is. It was both encouraging and motivating to see such an inclusive and collaborative spirit.
 
 
-I was happy to present my work on **cataract reversal**  
-([Mattioni et al., 2024 · BioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.30.625697v1))  
-in a symposium on **Brain Plasticity** chaired by *Hans Op de Beeck* (KU Leuven) and *Olivier Collignon* (UC Louvain).  
 
-The symposium brought together exciting research from both universities, highlighting new perspectives on brain organisation and plasticity.  
-
-It was also a great opportunity to:  
-- Learn more about the work happening at **KU Leuven** and **UCLouvain** across cognitive science, neuroscience, and neuropsychology.  
-- Connect with colleagues from both institutions in an inspiring and collaborative setting.  
-
-Overall, the meeting reinforced how valuable it is to bridge expertise across labs and disciplines to better understand the human brain.
