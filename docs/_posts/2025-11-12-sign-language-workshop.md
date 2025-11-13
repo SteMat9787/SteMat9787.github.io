@@ -12,7 +12,6 @@ On Nov 6th and 7th, I had the pleasure of attending the [“Sign Language Gramma
 
 
 <figure>
-  <img src="/assets/images/Pic_SignLanguageWorkshop_talk.jpg" alt="Sing language workshop meeting" width="500" style="border-radius:10px; display:block; margin:auto;"/>
+  <img src="/assets/images/Pic_SignLanguageWorkshop_talk.jpeg" alt="Sing language workshop meeting" width="500" style="border-radius:10px; display:block; margin:auto;"/>
   <figcaption style="text-align:center; font-style:italic;">Me presenting at the Workshop!</figcaption>
 </figure>
-
