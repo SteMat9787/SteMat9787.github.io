@@ -10,5 +10,8 @@ On Nov 6th and 7th, I had the pleasure of attending the [“Sign Language Gramma
 - I was very happy to have the chance to present my ongoing study on sign language, and I hope this will be the first of many projects in this fascinating area.
 - As this was my first experience entering the field of sign language research, I am deeply grateful and touched by how welcoming and open the community is. It was both encouraging and motivating to see such an inclusive and collaborative spirit.
 
-![Me presenting at the Woorkshop](/assets/images/Pic_SignLaanguageWoorkshop_talk.jpg)
 
+<figure>
+  <img src="/assets/images/Pic_SignLanguageWorkshop_talk.jpeg" alt="Sing language workshop meeting" width="500" style="border-radius:10px; display:block; margin:auto;"/>
+  <figcaption style="text-align:center; font-style:italic;">Me presenting at the Workshop</figcaption>
+</figure>
