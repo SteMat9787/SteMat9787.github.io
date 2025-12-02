@@ -1,5 +1,5 @@
 ---
-title: "New paper published on Nature Communications"
+title: "New paper published in Nature Communications"
 date: 2025-11-17
 layout: single
 author_profile: true
