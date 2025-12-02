@@ -73,5 +73,3 @@ A brief blindness at birth leaves lasting traces — but doesn’t prevent the e
 12 This work was only possible thanks to the dedication of an incredible team — across labs, countries, and expertise.
 A huge thank you to all the co-authors who made this project possible.
 
-
-[doi here]
