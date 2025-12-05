@@ -9,7 +9,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
 ### 2025
 - **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans](https://www.nature.com/articles/s41467-025-65468-7)**  
 **Stefania Mattioni**, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valerie Goffaux, Andrea I Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, Olivier Collignon.  
-**Just accepted in** <span style="color:#006970">*Nature Communications*</span>.
+<span style="color:#006970">*Nature Communications*</span>.
 
 - **[Neural and computational evidence for a predictive learning account of the testing effect](https://www.pnas.org/doi/abs/10.1073/pnas.2506530122)**  
 Haopeng Chen, Pieter Verbeke, **Stefania Mattioni**, Cristian Buc Calderon, Tom Verguts.  
