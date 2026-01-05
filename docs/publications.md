@@ -16,7 +16,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
 **Stefania Mattioni**, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valerie Goffaux, Andrea I Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, Olivier Collignon.  
 <span style="color:#006970">*Nature Communications*</span>.
 
-- **[Two time scales of adaptation in human learning rates](https://www.biorxiv.org/content/10.1101/2025.06.05.658048v2.abstract)**  Jonas Simoens, Senne Braem, Peter Verbeke, Haopeng Chen, **Stefania Mattioni**, Mengqiao Chai, ... & Tom Verguts.
+- **[Two time scales of adaptation in human learning rates](https://www.biorxiv.org/content/10.1101/2025.06.05.658048v2.abstract)**  Jonas Simoens, Senne Braem, Peter Verbeke, Haopeng Chen, **Stefania Mattioni**, Mengqiao Chai, ... & Tom Verguts.  
 <span style="color:#006970">*bioRxiv*</span>.
 
 - **[Neural and computational evidence for a predictive learning account of the testing effect](https://www.pnas.org/doi/abs/10.1073/pnas.2506530122)**  
