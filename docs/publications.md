@@ -9,7 +9,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
 ### 2025
 
 - **[Representation of emotional expressions across the face and voice brain networks](https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract)**
-**Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.
+**Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.  
 <span style="color:#006970">*bioRxiv*</span>.
   
 - **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans](https://www.nature.com/articles/s41467-025-65468-7)**  
@@ -17,7 +17,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
 <span style="color:#006970">*Nature Communications*</span>.
 
 - **[Two time scales of adaptation in human learning rates](https://www.biorxiv.org/content/10.1101/2025.06.05.658048v2.abstract)**  Jonas Simoens, Senne Braem, Peter Verbeke, Haopeng Chen, **Stefania Mattioni**, Mengqiao Chai, ... & Tom Verguts.
-- <span style="color:#006970">*bioRxiv*</span>.
+<span style="color:#006970">*bioRxiv*</span>.
 
 - **[Neural and computational evidence for a predictive learning account of the testing effect](https://www.pnas.org/doi/abs/10.1073/pnas.2506530122)**  
 Haopeng Chen, Pieter Verbeke, **Stefania Mattioni**, Cristian Buc Calderon, Tom Verguts.  
