@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 Here is a selection of my publications. For a full and updated list, see [Google Scholar](https://scholar.google.com/citations?hl=fr&user=dD6BUzYAAAAJ&view_op=list_works&sortby=pubdate).
+### 2026
+- **[Distinct roles of anterior cingulate and subcortical regions supporting effort evaluation versus preparation]([https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract](https://osf.io/preprints/psyarxiv/discover?search=Distinct%20roles%20of%20anterior%20cingulate%20and%20subcortical%20regions%20supporting%20effort%20evaluation%20versus%20preparation))**
+Nanne Kukkonen, Senne Braem, Joshua Eayrs, Mengqiao Chai, **Stefania Mattioni**, Susanne Tabitha Steendam, C. Nico Boehler, Jan R. Wiersema, Wim Notebaert, Ruth Krebs.  
+<span style="color:#006970">*psyArXiv*</span>.
 
 ### 2025
 
