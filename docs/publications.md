@@ -6,6 +6,9 @@ permalink: /publications/
 
 Here is a selection of my publications. For a full and updated list, see [Google Scholar](https://scholar.google.com/citations?hl=fr&user=dD6BUzYAAAAJ&view_op=list_works&sortby=pubdate).
 ### 2026
+- **[Neural Architecture of Familiar Person Perception: Contributions of Unimodal and Multimodal Brain Regions](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.70488)**  
+Tianxing Zheng, **Stefania Mattioni**, Olivier Collignon, et Xiaoqing Gao.  
+<span style="color:#006970">*Human Brain Mapping*</span>.
 - **[Distinct roles of anterior cingulate and subcortical regions supporting effort evaluation versus preparation](https://osf.io/preprints/psyarxiv/discover?search=Distinct%20roles%20of%20anterior%20cingulate%20and%20subcortical%20regions%20supporting%20effort%20evaluation%20versus%20preparation)**  
 Nanne Kukkonen, Senne Braem, Joshua Eayrs, Mengqiao Chai, **Stefania Mattioni**, Susanne Tabitha Steendam, C. Nico Boehler, Jan R. Wiersema, Wim Notebaert, Ruth Krebs.  
 <span style="color:#006970">*psyArXiv*</span>.
@@ -15,7 +18,7 @@ Nanne Kukkonen, Senne Braem, Joshua Eayrs, Mengqiao Chai, **Stefania Mattioni**,
 - **[Representation of emotional expressions across the face and voice brain networks](https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract)**  
 **Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.  
 <span style="color:#006970">*bioRxiv*</span>.
-  
+
 - **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans](https://www.nature.com/articles/s41467-025-65468-7)**  
 **Stefania Mattioni**, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valerie Goffaux, Andrea I Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, Olivier Collignon.  
 <span style="color:#006970">*Nature Communications*</span>.
@@ -58,7 +61,7 @@ Ceren Battal, Ane Gurtubay-Antolin, Mohamed Rezk, **Stefania Mattioni**, Giorgia
 - **[Direct structural connections between auditory and visual motion-selective regions in humans](https://www.jneurosci.org/content/41/11/2393.abstract)**  
 Ane Gurtubay-Antolin, Ceren Battal, Chiara Maffei, Mohamed Rezk, **Stefania Mattioni**, Jorge Jovicich, Olivier Collignon.  
 <span style="color:#006970">*Journal of Neuroscience*</span>.
-  
+
 ### 2020
 - **[Shared representation of visual and auditory motion directions in the human middle-temporal cortex](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30553-4)**  
 Mohamed Rezk, Stephanie Cattoir, Ceren Battal, Valeria Occelli, **Stefania Mattioni**, Olivier Collignon.  
@@ -68,7 +71,7 @@ Mohamed Rezk, Stephanie Cattoir, Ceren Battal, Valeria Occelli, **Stefania Matti
 **Stefania Mattioni**, Mohamed Rezk, Ceren Battal, Roberto Bottini, Karen E. Cuculiza Mendoza, Nikolaas N. Oosterhof, Olivier Collignon.  
 <span style="color:#006970">*ELife*</span>.  
 *[Here](https://www.youtube.com/watch?v=CM_ygqA39KM&t=998s) (starting at minute 19:00) is an online talk on this paper, from eLife’s COVID-19 seminar series ‘Keeping communications open with online research talks.'*
-  
+
 ### 2019
 - **[Representation of auditory motion directions and sound source locations in the human planum temporale](https://www.jneurosci.org/content/39/12/2208.abstract)**  
 Ceren Battal, Mohamed Rezk, **Stefania Mattioni**, Jyothirmayi Vadlamudi, Olivier Collignon.  
@@ -78,7 +81,7 @@ Ceren Battal, Mohamed Rezk, **Stefania Mattioni**, Jyothirmayi Vadlamudi, Olivie
 - **[Neuronal populations in the occipital cortex of the blind synchronize to the temporal dynamics of speech](https://elifesciences.org/articles/31640)**  
 Markus Johannes Van Ackeren, Francesca M Barbero, **Stefania Mattioni**, Roberto Bottini, Olivier Collignon.  
 <span style="color:#006970">*ELife*</span>.
-  
+
 ### 2016
 - **[Early blindness alters the spatial organization of verbal working memory](https://www.sciencedirect.com/science/article/abs/pii/S0010945216302283)**  
  Roberto Bottini, **Stefania Mattioni**, Olivier Collignon.  
@@ -88,8 +91,8 @@ Markus Johannes Van Ackeren, Francesca M Barbero, **Stefania Mattioni**, Roberto
 - **[Perceptual and conceptual distortions of implicit hand maps](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2015.00656/full)**  
  Matthew R Longo, **Stefania Mattioni**, Nataşa Ganea.  
 <span style="color:#006970">*Frontiers in Human Neuroscience*</span>.
-  
+
 ### 2014
 - **[The effects of verbal cueing on implicit hand maps](https://www.sciencedirect.com/science/article/abs/pii/S0001691814002157)**  
 **Stefania Mattioni**, Matthew R Longo.  
-<span style="color:#006970">*Acta Psychologica*. 
+<span style="color:#006970">*Acta Psychologica*.
