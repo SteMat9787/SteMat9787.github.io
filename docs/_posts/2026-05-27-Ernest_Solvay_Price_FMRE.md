@@ -1,5 +1,9 @@
-## Ernest Solvay Prize 2026
-
+---
+title: "Ernest Solvay Prize 2026"
+date: 2026-27-05
+layout: single
+author_profile: true
+---
 I am honored to have received the Ernest Solvay Prize awarded by the Foundation Médicale Reine Elisabeth (FMRE/QEMF) for our study *"Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans"*, published in *Nature Communications* in 2025.
 
 This recognition is particularly meaningful because it comes from a foundation dedicated to advancing neuroscience and medical research. Fundamental neuroscience often requires years of work before its broader implications become apparent. Research projects can be long and demanding journeys, and it is not uncommon to lose sight of the potential clinical relevance that basic science may ultimately have. Receiving this award is therefore a valuable reminder that fundamental research and clinical impact are deeply connected, even when the path between them is long and not immediately visible.
