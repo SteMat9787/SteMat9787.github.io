@@ -6,6 +6,11 @@ author_profile: true
 ---
 I am honored to have received the Ernest Solvay Prize awarded by the Foundation Médicale Reine Elisabeth (FMRE/QEMF) for our study *["Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans"](https://rdcu.be/eQjMH)*, published in *Nature Communications* in 2025.
 
+<figure>
+  <img src="/assets/images/.jpeg" alt="Sing language workshop meeting" width="500" style="border-radius:10px; display:block; margin:auto;"/>
+  <figcaption style="text-align:center; font-style:italic;">Me presenting at the Workshop</figcaption>
+</figure>
+
 This recognition is particularly meaningful because it comes from a foundation dedicated to advancing neuroscience and medical research. Fundamental neuroscience often requires years of work before its broader implications become apparent. Research projects can be long and demanding journeys, and it is not uncommon to lose sight of the potential clinical relevance that basic science may ultimately have. Receiving this award is therefore a valuable reminder that fundamental research and clinical impact are deeply connected, even when the path between them is long and not immediately visible.
 
 The study recognized by the Ernest Solvay Prize was the result of many years of work, perseverance, and collaboration. Seeing this effort acknowledged by the FMRE is especially rewarding because it highlights the potential translational significance of our findings and their contribution to a better understanding of human brain development.
