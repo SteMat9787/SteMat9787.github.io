@@ -8,7 +8,7 @@ I am honored to have received the Ernest Solvay Prize awarded by the Foundation 
 
 <figure>
   <img src="/assets/images/PrixSolvay2026.jpg" alt="Award Ceremony" width="500" style="border-radius:10px; display:block; margin:auto;"/>
-  <figcaption style="text-align:center; font-style:italic;">Receiving the Ernest Solvay Prize at the Royal Palace in Brussels from Her Royal Highness Princess Astrid of Belgium and Marie Solvay.</figcaption>
+  <figcaption style="text-align:center; font-style:italic;">Receiving the Ernest Solvay Prize at the Royal Palace in Brussels from Her Royal Highness Princess Astrid of Belgium and Marie Solvay</figcaption>
 </figure>
 
 This recognition is particularly meaningful because it comes from a foundation dedicated to advancing neuroscience and medical research. Fundamental neuroscience often requires years of work before its broader implications become apparent. Research projects can be long and demanding journeys, and it is not uncommon to lose sight of the potential clinical relevance that basic science may ultimately have. Receiving this award is therefore a valuable reminder that fundamental research and clinical impact are deeply connected, even when the path between them is long and not immediately visible.
