@@ -7,7 +7,7 @@ author_profile: true
 I am honored to have received the Ernest Solvay Prize awarded by the Foundation Médicale Reine Elisabeth (FMRE/QEMF) for our study *["Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans"](https://rdcu.be/eQjMH)*, published in *Nature Communications* in 2025.
 
 <figure>
-  <img src="/assets/images/.jpeg" alt="Sing language workshop meeting" width="500" style="border-radius:10px; display:block; margin:auto;"/>
+  <img src="/assets/images/PrixSolvay2026.jpg" alt="Sing language workshop meeting" width="500" style="border-radius:10px; display:block; margin:auto;"/>
   <figcaption style="text-align:center; font-style:italic;">Me presenting at the Workshop</figcaption>
 </figure>
 
