@@ -12,6 +12,8 @@ I was happy to present my work on **cataract reversal**
 ([Mattioni et al., 2025 · Nature Communications](https://www.nature.com/articles/s41467-025-65468-7)) 
 in a symposium on **Brain Plasticity** chaired by *Hans Op de Beeck* (KU Leuven) and *Olivier Collignon* (UC Louvain).  
 
+<!--more-->
+
 The symposium brought together exciting research from both universities, highlighting new perspectives on brain organisation and plasticity.  
 
 It was also a great opportunity to:  
