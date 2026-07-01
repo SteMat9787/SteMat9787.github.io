@@ -6,6 +6,9 @@ permalink: /publications/
 
 Here is a selection of my publications. For a full and updated list, see [Google Scholar](https://scholar.google.com/citations?hl=fr&user=dD6BUzYAAAAJ&view_op=list_works&sortby=pubdate).
 ### 2026
+- **[Where Does Sign Language Start and Vision End? Lessons from Sign Language]()**
+**Stefania Mattioni**
+<span style="color:#006970">*Under review in Biolinguistics*</span>.
 - **[Neural Architecture of Familiar Person Perception: Contributions of Unimodal and Multimodal Brain Regions](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.70488)**  
 Tianxing Zheng, **Stefania Mattioni**, Olivier Collignon, et Xiaoqing Gao.  
 <span style="color:#006970">*Human Brain Mapping*</span>.
@@ -17,14 +20,15 @@ Nanne Kukkonen, Senne Braem, Joshua Eayrs, Mengqiao Chai, **Stefania Mattioni**,
 
 - **[Representation of emotional expressions across the face and voice brain networks](https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract)**  
 **Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.  
-<span style="color:#006970">*bioRxiv*</span>.
+<span style="color:#006970">*Under review in JoN*</span>.
 
 - **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans](https://www.nature.com/articles/s41467-025-65468-7)**  
 **Stefania Mattioni**, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valerie Goffaux, Andrea I Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, Olivier Collignon.  
 <span style="color:#006970">*Nature Communications*</span>.
+  🏆 **Awarded the [Queen Elisabeth Medical Foundation – Ernest Solvay Prize](https://histoiresroyales.fr/princesse-astrid-remet-prix-fondation-medicale-reine-elisabeth/).**
 
 - **[Two time scales of adaptation in human learning rates](https://www.biorxiv.org/content/10.1101/2025.06.05.658048v2.abstract)**  Jonas Simoens, Senne Braem, Peter Verbeke, Haopeng Chen, **Stefania Mattioni**, Mengqiao Chai, ... & Tom Verguts.  
-<span style="color:#006970">*bioRxiv*</span>.
+<span style="color:#006970">*eLife*</span>.
 
 - **[Neural and computational evidence for a predictive learning account of the testing effect](https://www.pnas.org/doi/abs/10.1073/pnas.2506530122)**  
 Haopeng Chen, Pieter Verbeke, **Stefania Mattioni**, Cristian Buc Calderon, Tom Verguts.  
