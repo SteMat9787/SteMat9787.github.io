@@ -9,7 +9,7 @@ Here is a selection of my publications. For a full and updated list, see [Google
 - **[Representation of emotional expressions across the face and voice brain networks](https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract)**  
 **Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.  
 <span style="color:#006970">*Journal of Neuroscience*</span>.
-- **[Where Does Sign Language Start and Vision End? Lessons from Sign Language]()**
+- **[Where Does Sign Language Start and Vision End? Lessons from Sign Language]()**  
 **Stefania Mattioni**
 <span style="color:#006970">*Under review in Biolinguistics*</span>.
 - **[Neural Architecture of Familiar Person Perception: Contributions of Unimodal and Multimodal Brain Regions](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.70488)**  
