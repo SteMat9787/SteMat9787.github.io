@@ -23,7 +23,7 @@ Nanne Kukkonen, Senne Braem, Joshua Eayrs, Mengqiao Chai, **Stefania Mattioni**,
 
 - **[Representation of emotional expressions across the face and voice brain networks](https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract)**  
 **Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.  
-<span style="color:#006970">*Under review in JoN*</span>.
+<span style="color:#006970">*Biorxiv*</span>.
 
 - **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans](https://www.nature.com/articles/s41467-025-65468-7)**  
 **Stefania Mattioni**, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valerie Goffaux, Andrea I Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, Olivier Collignon.  
