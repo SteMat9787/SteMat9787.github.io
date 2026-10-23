@@ -6,7 +6,7 @@ permalink: /publications/
 
 Here is a selection of my publications. For a full and updated list, see [Google Scholar](https://scholar.google.com/citations?hl=fr&user=dD6BUzYAAAAJ&view_op=list_works&sortby=pubdate).
 ### 2026
-- **[Representation of emotional expressions across the face and voice brain networks](https://www.biorxiv.org/content/10.64898/2025.12.22.695403v1.abstract)**  
+- **[Representation of emotional expressions across the face and voice brain networks](https://www.jneurosci.org/content/early/2026/10/08/JNEUROSCI.0366-26.2026)**  
 **Stefania Mattioni**,Federica Falagiarda, Rémi Gau, Mohamed Rezk, Ceren Battal, Alice Van Audenhaege, and Olivier Collignon.  
 <span style="color:#006970">*Journal of Neuroscience*</span>.
 - **[Where Does Sign Language Start and Vision End? Lessons from Sign Language]()**  
