@@ -6,6 +6,8 @@ author_profile: true
 ---
 **[Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans – Mattioni et al. (2025)](https://rdcu.be/eQjMH)**
 
+<!--more-->
+
 **What happens to the visual brain after early transient blindness?**
 Our new paper in Nature Communications explores this through the study of a rare population: people born with dense bilateral cataracts— a transient blindness occurring during a critical window of visual development. 
 

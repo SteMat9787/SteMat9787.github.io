@@ -1,0 +1,27 @@
+---
+title: "Awarded the Ernest Solvay Prize"
+date: 2026-05-27
+layout: single
+author_profile: true
+---
+
+I am honoured to have received the **Ernest Solvay Prize** from the *Medical Foundation Queen Elisabeth* for our recent publication:
+
+**Impact of a transient neonatal visual deprivation on the development of the ventral occipito-temporal cortex in humans**
+(*Nature Communications*, 2025).
+
+<!--more-->
+
+This recognition is particularly meaningful to me because it comes from a medical foundation, highlighting the potential impact that **fundamental research** can have on our understanding of the human brain and on clinically relevant questions. Our work investigated how a brief period of visual deprivation early in life shapes the development of the visual system, providing new insights into brain plasticity and the long-term consequences of altered sensory experience.
+
+The prize was awarded by **Princess Astrid**, Honorary President of the Foundation, and **Marie Solvay**, representing the Solvay family. I was deeply touched by their commitment to supporting scientific research and, in particular, neuroscience. Their continued engagement plays an important role in fostering fundamental discoveries that may ultimately contribute to improving human health and well-being.
+
+![Ernest Solvay Prize Ceremony](/assets/images/PrixSolvay2026.jpg)
+
+*Award ceremony at the Royal Palace of Brussels.*
+
+The ceremony took place at the **Royal Palace of Brussels**, a beautiful and inspiring setting that added a sense of grandeur to an already memorable event. This year's celebration was especially significant, marking the **100th anniversary** of the Foundation, established by Queen Elisabeth in the aftermath of the First World War to promote scientific and medical progress.
+
+It was a privilege to take part in this celebration alongside outstanding researchers and to see fundamental science recognised in such a meaningful way. This award reflects the work of an exceptional team, and I am deeply grateful to all collaborators who contributed to this project:
+Stefania Mattioni, Mohamed Rezk, Xiaoqing Gao, Junghyun Nam, Zhong-Xu Liu, Remi Gau, Valérie Goffaux, Andrea I. Costantino, Hans Op de Beeck, Terri Lewis, Daphne Maurer, and Olivier Collignon.
+I also wish to thank the Medical Foundation Queen Elisabeth for this prestigious distinction and for its century-long commitment to supporting scientific discovery and innovation.
